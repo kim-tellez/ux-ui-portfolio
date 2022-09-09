@@ -65,7 +65,7 @@ export default function Header() {
                         <h1 className="text-decoration-none pb-4">Hi, I'm Kim. &#128075;</h1>
                         <p>I'm a UX/UI designer who has been using design thinking in the service of others for the past 10 years. I started by running a <a href="https://www.globalcitizenyear.org/author/kimberly-nerea-tellez/" target="_blank" rel="noreferrer">community design project in Ecuador</a>, went on to work in education non-profits <a href="https://www.cce.org/thought-leadership/blog/post/cce-rhode-island-proficiency-personalized" target="_blank" rel="noreferrer">facilitating workshops for students and educators</a> across the United States and Guatemala, and have most recently found my passion in more traditional uses for design thinking: &#10024;digital product design&#10024;.</p>
                         <h3>WONDERING WHY I USE THE &#127805; AS MY LOGO?</h3>
-                        <p>Maize is not a naturally occuring plant, instead it exists by design. I take pride in my ancestral lineage to the group of folks that took design thinking to the next level, working across hundreds of generations to produce the “pixel perfect” kernels (corny, I know &#128513;).</p>
+                        <p>Maize is not a naturally occurring plant, instead it exists by design. I take pride in my ancestral lineage to the group of folks that took design thinking to the next level, working across hundreds of generations to produce the “pixel perfect” kernels (corny, I know &#128513;).</p>
                     </div>
                 </div>
             </div>
