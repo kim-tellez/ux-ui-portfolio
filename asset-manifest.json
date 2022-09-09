@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ux-ui-portfolio/static/css/main.d51274b2.css",
-    "main.js": "/ux-ui-portfolio/static/js/main.6754501d.js",
+    "main.js": "/ux-ui-portfolio/static/js/main.6525304a.js",
     "static/js/787.92376d47.chunk.js": "/ux-ui-portfolio/static/js/787.92376d47.chunk.js",
     "static/media/rm-phone.gif": "/ux-ui-portfolio/static/media/rm-phone.2c7afd9cf9615df20c51.gif",
     "static/media/bpm-phone.gif": "/ux-ui-portfolio/static/media/bpm-phone.b305d3c963710dd3a7cf.gif",
@@ -70,11 +70,11 @@
     "static/media/home-sl-sm.png": "/ux-ui-portfolio/static/media/home-sl-sm.de337344289964f4c442.png",
     "index.html": "/ux-ui-portfolio/index.html",
     "main.d51274b2.css.map": "/ux-ui-portfolio/static/css/main.d51274b2.css.map",
-    "main.6754501d.js.map": "/ux-ui-portfolio/static/js/main.6754501d.js.map",
+    "main.6525304a.js.map": "/ux-ui-portfolio/static/js/main.6525304a.js.map",
     "787.92376d47.chunk.js.map": "/ux-ui-portfolio/static/js/787.92376d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d51274b2.css",
-    "static/js/main.6754501d.js"
+    "static/js/main.6525304a.js"
   ]
 }
