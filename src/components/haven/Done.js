@@ -1,5 +1,5 @@
 import React from "react";
-import vv from "../img/vv-header.png";
+import bpm from "../img/bpm-header.png";
 import {Link} from 'react-router-dom';
 
 export default function Done() {
