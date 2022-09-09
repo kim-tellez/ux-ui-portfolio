@@ -19,7 +19,7 @@ export default function Research() {
                 <h1 className="pb-4">Discovery Research</h1>
                 <h2>Secondary Research</h2>
                 <p>The original idea for Vauven was rooted in the founder's own experience, so I dedicated this part of the research phase to gather data about how other parents feel about their children's internet/media usage.</p>
-                <p>Note: At the onset of this work, there was no distinction between Vauven (the start-up) and Haven Station (the app), so there is overlap between the research I conducted for both of these projects. <Link to={"/case-studies/haven-station"}>Click here to learn more about my work with Haven Station.</Link></p>
+                <p>Note: At the onset of this work, there was no distinction between Vauven (the start-up) and Haven Station (the app), so there is overlap between the research I conducted for both of these projects. <Link to={"/ux-ui-portfolio/case-studies/haven-station"}>Click here to learn more about my work with Haven Station.</Link></p>
                 <div className="row pt-3 justify-content-between">
                     <div className="col-auto col-md-4 pb-5">
                         <div className="d-flex flex-column">
