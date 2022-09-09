@@ -36,7 +36,7 @@ export default function Background() {
                             <li>Prototyping &amp; Testing</li>
                             <br />
                             <li><h3>TIMELINE</h3></li>
-                            <li>Jaun - Aug 2022</li>
+                            <li>Jun - Aug 2022</li>
                             <br />
                             <li><h3>TOOLS</h3></li>
                             <li>Paper &amp; Pens</li>
