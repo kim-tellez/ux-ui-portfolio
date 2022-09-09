@@ -21,7 +21,7 @@ export default function Background() {
                             <b>Vauven as a company, not an app.</b> I worked to reposition Vauven as a children's media company that offers child-safe digital products. I designed a responsive company website that showcases product offerings and company values.<br/><br/>
                             <b>Haven Station</b> is the first child-safe digital product that Vauven is working to bring to market. <Link to={"/ux-ui-portfolio/case-studies/haven-station"}>Learn more about my work with Haven Station.</Link> 
                         </p>
-                        <a href="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIQai1EpRWdQyX1pVGwtRcu%2FReadingful-Moments-P2%3Fnode-id%3D2%253A8037%26starting-point-node-id%3D2%253A10623" target="_blank" rel="noreferrer"><button>VISIT SITE</button></a>
+                        <a href="https://www.vauven.com/" target="_blank" rel="noreferrer"><button>VISIT SITE</button></a>
                     </div>
                     <div className="col-1 col-lg-1 pb-5"></div>
                     <div className="col-sm-3 col-md-3 col-lg-3">
