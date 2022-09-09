@@ -12,7 +12,7 @@ export default function Brand() {
                 <a target="_blank" rel="noreferrer" href={niche}><img className="img-fluid d-flex m-auto pb-5" alt="BP Music venn diagram." src={niche} /></a>
 
                 <h2 className="pt-5">Updating the Logo &amp; Style Guide</h2>
-                <p>To remain consistent throughout the re-vamped design, I created a <a href="/" target="_blank" rel="noreferrer">Quick Style Guide</a> that denotes the Colors, Fonts, Iconography, UI Elements, and Imagery that are used in the high-fidelity mock-ups and prototypes.</p><br />
+                <p>To remain consistent throughout the re-vamped design, I created a Quick Style Guide that denotes the Colors, Fonts, Iconography, UI Elements, and Imagery that are used in the high-fidelity mock-ups and prototypes.</p><br />
                 <a target="_blank" rel="noreferrer" href={style}><img className="img-fluid d-flex m-auto" alt="BP Music style guide." src={style} /></a>
             </div>
         </div>   
