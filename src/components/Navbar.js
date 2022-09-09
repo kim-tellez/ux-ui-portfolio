@@ -34,7 +34,7 @@ function Navbar() {
               <div className="d-block  d-lg-none m-auto"><img className="img-fluid" alt="Site Logo" src={logo} /></div>
               <li className='nav-item pr-3'>
                   <NavLink
-                    to={"/"}
+                    to={"/ux-ui-portfolio"}
                     className='nav-link'
                     activeClassName="active"
                     onClick={closeMobileMenu}
@@ -49,17 +49,17 @@ function Navbar() {
                         CASE STUDIES
                     </button>
                     <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" >
-                        <NavLink activeClassName="active" className="dropdown-item" to={"/case-studies/haven-station"} >Haven Station</NavLink>
-                        <NavLink activeClassName="active" className="dropdown-item" to={"/case-studies/vauven"} >Vauven</NavLink>
-                        <NavLink activeClassName="active" className="dropdown-item" to={"/case-studies/bpmusic"} >BPMusic</NavLink>
-                        <NavLink activeClassName="active" className="dropdown-item" to={"/case-studies/readingful-moments"} >Readingful Moments</NavLink>
+                        <NavLink activeClassName="active" className="dropdown-item" to={"/ux-ui-portfolio/case-studies/vauven"} >Vauven</NavLink>
+                        <NavLink activeClassName="active" className="dropdown-item" to={"/ux-ui-portfolio/case-studies/haven-station"} >Haven Station</NavLink>
+                        <NavLink activeClassName="active" className="dropdown-item" to={"/ux-ui-portfolio/case-studies/bpmusic"} >BPMusic</NavLink>
+                        <NavLink activeClassName="active" className="dropdown-item" to={"/ux-ui-portfolio/case-studies/readingful-moments"} >Readingful Moments</NavLink>
                     </div>
                 </div>
 
                 <div className='dd d-inline d-lg-none'>
                     <ul>CASE STUDIES
-                        <li><NavLink className={"inline-link"} activeClassName="active" to={"/case-studies/haven-station"} onClick={closeMobileMenu}>Haven Station</NavLink></li>
                         <li><NavLink className={"inline-link"} activeClassName="active" to={"/case-studies/vauven"} onClick={closeMobileMenu}>Vauven</NavLink></li>
+                        <li><NavLink className={"inline-link"} activeClassName="active" to={"/case-studies/haven-station"} onClick={closeMobileMenu}>Haven Station</NavLink></li>
                         <li><NavLink className={"inline-link"} activeClassName="active" to={"/case-studies/bpmusic"} onClick={closeMobileMenu}>BPMusic</NavLink></li>
                         <li><NavLink className={"inline-link"} activeClassName="active" to={"/case-studies/readingful-moments"} onClick={closeMobileMenu}>Readingful Moments</NavLink></li>
                     </ul>

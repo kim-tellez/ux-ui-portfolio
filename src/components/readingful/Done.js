@@ -10,15 +10,15 @@ export default function Done() {
                 <h3 className="pb-4">NEXT CASE STUDY</h3>
                 <div className="container hm-card">
                     <div className="row">
-                        <div className="col-12 col-lg-5 d-flex align-items-end hs-header">
-                            <Link to={"/ux-ui-portfolio/case-studies/haven-station"}><img className="img-fluid" alt="Haven Station Logo and Prototype on Phones" src={hs} /></Link>
+                        <div className="col-12 col-lg-5 d-flex align-items-end vv-header">
+                            <Link to={"/ux-ui-portfolio/case-studies/vauven"}><img className="img-fluid" alt="Vauven Logo and Website on a Laptop" src={vv} /></Link>
                         </div>
                         <div className="col-12 col-lg-7 pl-4">
-                            <h1 className="pt-2 pb-2">Haven Station</h1>
-                            <h3 className="pb-3">START-UP MVP CHILDREN'S MULTI-MEDIA APP PROOF OF CONCEPT</h3>
-                            <p className="pb-2">How might we disrupt the children's app market?</p>
-                            <p className="hm-items">UX Research | Interaction | Branding | Visual &amp; UI Design | Prototyping</p>
-                            <p className="d-flex justify-content-end pb-1 pr-2"><Link to={"/ux-ui-portfolio/case-studies/haven-station"}>View case study</Link></p>
+                            <h1 className="pt-2 pb-2">Vauven</h1>
+                            <h3 className="pb-3">START-UP COMPANY WEBSITE &amp; BRAND DESIGN</h3>
+                            <p className="pb-2">How might we showcase company products while building a brand that inspires trust?</p>
+                            <p className="hm-items">UX Research | Information Architecture | Content Strategy | Branding | UI Design</p>
+                            <p className="d-flex justify-content-end pb-1 pr-2"><Link to={"/ux-ui-portfolio/case-studies/vauven"}>View case study</Link></p>
                         </div>
                     </div>
                 </div>
