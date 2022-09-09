@@ -1,0 +1,48 @@
+.bpm-header {
+    background-color: #FFE9EE;
+}
+
+.bpm-big {
+    font-size: 18px;
+}
+
+.bpm-bigger {
+    font-size: 22px;
+}
+
+.bpm-pain{
+    border: 1px solid #49A078;
+    border-radius: 15px;
+}
+
+.bpm-pain > legend {
+    width:4.2em;
+}
+
+.bpm-revision{
+    border: 1px solid #49A078;
+    border-radius: 15px;
+}
+
+.bpm-revision > legend {
+    width:3.5em;
+}
+
+.bpm-signin {
+    background: #F5F7F6;
+    border-radius: 20px;
+}
+
+.bpm-phone {
+    width:300px;
+    height:620px;
+}
+
+.bpm-recs{
+    border: 1px solid #49A078;
+    border-radius: 15px;
+}
+
+.bpm-recs > legend {
+    width:14.3em;
+}
