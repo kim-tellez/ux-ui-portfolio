@@ -15,14 +15,14 @@ function Navbar() {
         <div className="container-fluid">
           <div className='container'>
             <div className="d-flex justify-content-center">
-              <NavLink className="navbar-brand" to={"/"}>
+              <NavLink className="navbar-brand" to={"/ux-ui-portfolio"}>
                 Kim T&eacute;llez | UX/UI Design Portfolio 
                   </NavLink>
               </div>
             
 
             <div className="d-none d-lg-block d-lg-flex justify-content-center align-items-center">
-              <a className="navbar-brand nav-large m-auto" href={"/"}>
+              <a className="navbar-brand nav-large m-auto" href={"/ux-ui-portfolio"}>
                 <img alt="Site Logo" src={logo} />
               </a>
             </div>
