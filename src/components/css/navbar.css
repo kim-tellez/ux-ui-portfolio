@@ -122,9 +122,8 @@ a.nav-link.active{
     height: auto;
     position: absolute;
     top: 84px;
-    right: -100%;
+    right: 100%;
     opacity: 1;
-    transition: all 0.5s ease;
     padding-bottom: 1rem;
     padding-top: 2rem;
     padding-left: 1rem;
@@ -136,7 +135,6 @@ a.nav-link.active{
     width: 257px;
     justify-self: end;
     opacity: 1;
-    transition: all 0.5s ease;
     z-index: 1;
     box-shadow: -4px 4px 4px rgba(33, 104, 105, 0.25);
   }
