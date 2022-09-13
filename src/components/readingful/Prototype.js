@@ -12,7 +12,7 @@ export default function Prototype() {
                 <h2>Moderated, Remote Usability Test</h2>
                 <p>Below, I highlight some of the major usability issues I found in this round of testing. Click on the links to access the <a href="https://docs.google.com/document/d/1yC13rhrioJ5NxdD39MC-yaishkHVDbUHmbN7DgC615A/edit?usp=sharing" target="_blank" rel="noreferrer">Script</a> I used and the <a href="https://docs.google.com/document/d/1Vzdg9V9imKSRhY0q9mgSS3evLLG32u9N-r9cbhEh7Kw/edit?usp=sharing" target="_blank" rel="noreferrer">Full Report</a> of findings and recommendations.</p>
                 <div className="row m-auto pt-2 pl-2 pb-5 justify-content-between">
-                    <fieldset className="col-auto col-md-5 rm-pain">
+                    <fieldset className="col-auto col-lg-5 rm-pain">
                         <legend><h3>PAIN POINTS</h3></legend>
                         <a target="_blank" rel="noreferrer" href={pain1}><img className="img-fluid d-flex m-auto pt-2 pb-5" alt="Usability Test Pain Points" src={pain1} /></a>
                         <ul>
@@ -35,7 +35,7 @@ export default function Prototype() {
                         </ul>
                     </fieldset>
                     <div className="col-1 pb-5"></div>
-                    <fieldset className="col-auto col-md-5 rm-revision">
+                    <fieldset className="col-auto col-lg-5 rm-revision">
                         <legend><h3>REVISIONS</h3></legend>
                         <a target="_blank" rel="noreferrer" href={revision}><img className="img-fluid d-flex m-auto pt-2 pb-5" alt="Revisions after testing" src={revision} /></a>
                         <ul>
@@ -55,7 +55,7 @@ export default function Prototype() {
                 <h2>Final Moderated, Remote Usability Test</h2>
                 <p>This final round of testing was an opportunity to validate my design solutions to the usability issues that were uncovered in the previous round. I also uncovered uncritical problem spaces that can serve as a starting place to explore future development. Click on the links to access the <a href="https://docs.google.com/document/d/1iG443y5ZmAu1i_1lcbS6cd73nlTC2t16tc-u77T57m8/edit?usp=sharing" target="_blank" rel="noreferrer">Script</a> I used and the <a href="https://docs.google.com/document/d/1NW57XwFYq5nHVYpp4310kWnVorKqPHDeLxZDWCtCocA/edit?usp=sharing" target="_blank" rel="noreferrer">Full Report.</a></p>
                 <div className="row m-auto pt-2 pl-2 pb-5 justify-content-between">
-                    <fieldset className="col-auto col-md-5 rm-pain">
+                    <fieldset className="col-auto col-lg-5 rm-pain">
                         <legend><h3>PAIN POINTS</h3></legend>
                         <a target="_blank" rel="noreferrer" href={pain2}><img className="img-fluid d-flex m-auto pt-2 pb-5" alt="Usability Test Pain Points" src={pain2} /></a>
                         <ul>
@@ -71,7 +71,7 @@ export default function Prototype() {
                         </ul>
                     </fieldset>
                     <div className="col-1 pb-5"></div>
-                    <fieldset className="col-auto col-md-5 rm-recs">
+                    <fieldset className="col-auto col-lg-5 rm-recs">
                         <legend><h3>RECOMMENDATIONS FOR FUTURE ITERATIONS</h3></legend>
                         <p>At this stage, I did not go back to implement any major changes to the design. However, I was able to validate previous design choices, and compile a list of priorities for future iterations:</p>
                         <ul>

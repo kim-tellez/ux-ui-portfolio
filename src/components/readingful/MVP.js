@@ -30,8 +30,8 @@ export default function MVP() {
                 </Swiper>
 
                 <h2>Actionable Insights</h2>
-                <div className="row d-flex justify-content-center pt-2 pl-2">
-                    <fieldset className="col-auto col-md-6 rm-insights">
+                <div className="row d-flex justify-content-between pt-2 pl-2">
+                    <fieldset className="col-auto col-lg-6 rm-insights">
                         <legend><h3>INSIGHTS</h3></legend>
                         <ul>
                             <li><p>Parents are very busy, and often find it difficult to feel present during times spent with their children. They find themselves defaulting to turning on the TV during free time.</p></li>
@@ -39,7 +39,7 @@ export default function MVP() {
                         </ul>
                     </fieldset>
                     <div className="col-1 pb-5"></div>
-                    <fieldset className="col-auto col-md-5 rm-hmw">
+                    <fieldset className="col-auto col-lg-5 rm-hmw">
                         <legend><h3>HOW MIGHT WE?</h3></legend>
                         <ul>
                             <li><p>How might we make it easier for parents to be intentional about fitting reading with their children into their busy days?</p></li>
