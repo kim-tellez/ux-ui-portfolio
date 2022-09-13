@@ -41,7 +41,7 @@ export default function Header() {
         e.currentTarget.src = uilg;
         document.getElementById('kim').src = kimsm;
         document.getElementById('kim').style.bottom = "3px";
-        document.getElementById('kim').style.zIndex = "2";
+        document.getElementById('kim').style.zIndex = "4";
     }
     function mouseOutUi(e) {
         e.currentTarget.src = uism;
@@ -55,11 +55,14 @@ export default function Header() {
         <div className="container-fluid pt-5">
             <div className="container">
                 <div className="row d-flex justify-content-between">
-                    <div className="col-12 d-flex justify-content-center pt-5">
+                    <div className="col-12 justify-content-center m-auto pt-5 d-none d-lg-flex">
                         <div><img  alt="Servent Leader" className="img-fluid hm-sl" src={slsm} onMouseOver={e => mouseInSl(e)} onMouseOut={e => mouseOutSl(e)} /></div>
                         <div><img alt="Learning Facilitator" className="img-fluid hm-lf" src={lfsm} onMouseOver={e => mouseInLf(e)} onMouseOut={e => mouseOutLf(e)} /></div>
                         <div><img alt="They/Them" id="kim" className="img-fluid hm-kim" src={kimlg} /></div>
                         <div><img  alt="UX/UI Designer" className="img-fluid hm-ui" src={uism} onMouseOver={e => mouseInUi(e)} onMouseOut={e => mouseOutUi(e)} /></div>
+                    </div>
+                    <div className="col-12 d-flex justify-content-center pb-5 d-block d-lg-none">
+                        <div><img alt="They/Them" className="img-fluid" src={kimlg} /></div>
                     </div>
                     <div className="col-12">
                         <h1 className="text-decoration-none pb-4">Hi, I'm Kim. &#128075;</h1>

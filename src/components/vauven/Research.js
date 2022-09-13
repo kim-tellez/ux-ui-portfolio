@@ -14,21 +14,21 @@ import 'swiper/css/bundle';
 
 export default function Research() {
     return (
-        <div className="container-fluid pb-5">
+        <div className="container-fluid pt-5 pb-lg-5">
             <div className="container">
                 <h1 className="pb-4">Discovery Research</h1>
                 <h2>Secondary Research</h2>
                 <p>The original idea for Vauven was rooted in the founder's own experience, so I dedicated this part of the research phase to gather data about how other parents feel about their children's internet/media usage.</p>
                 <p>Note: At the onset of this work, there was no distinction between Vauven (the start-up) and Haven Station (the app), so there is overlap between the research I conducted for both of these projects. <Link to={"/ux-ui-portfolio/case-studies/haven-station"}>Click here to learn more about my work with Haven Station.</Link></p>
                 <div className="row pt-3 justify-content-between">
-                    <div className="col-auto col-md-4 pb-5">
+                    <div className="col-12 col-lg-4 pb-5">
                         <div className="d-flex flex-column">
                             <div className="vv-info-header pt-2 pb-2 container">
                                 <span><b>Assumption #1</b><br/>
                                     Parents feel that popular kid's apps are unsafe.</span>
                             </div>
                             <div className="vv-info pt-2 container">
-                                <p><b>Findings</b></p>
+                                <p className="mb-0"><b>Findings</b></p>
                                 One of the most popular apps used by kids is YouTube. A Pew Research Center Study showed:
                                     <ul>
                                         <li><b>80%</b> of parents say their child 11 or younger watches videos on YouTube</li>
@@ -39,29 +39,29 @@ export default function Research() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-auto col-md-4 pb-5">
+                    <div className="col-12 col-lg-4 pb-5">
                         <div className="d-flex flex-column">
                             <div className="vv-info-header pt-2 pb-2 container">
                                 <span><b>Assumption #2</b><br/>
                                 Parents want reassurance from kids apps.</span>
                             </div>
-                            <div className="vv-info pt-2 container pb-5">
-                                <p><b>Findings</b></p>
+                            <div className="vv-info pt-2 container pb-lg-5">
+                                <p className="mb-0"><b>Findings</b></p>
                                     A research study showed that more than 90% of parents believe it is their responsibility to protect children from inappropriate online content
-                                    <ul className="pb-5">
+                                    <ul className="pb-lg-5">
                                         <li>Only 38% believe that technology companies have “a lot” of responsibility in safeguarding children</li>
                                     </ul>
                             </div>
                         </div>
                     </div>
-                    <div className="col-auto col-md-4 pb-5">
+                    <div className="col-12 col-lg-4 pb-5">
                         <div className="d-flex flex-column">
                             <div className="vv-info-header pt-2 pb-2 container">
                                 <span><b>Assumption #3</b><br/>
                                 There aren't any child-safe options available.</span>
                             </div>
-                            <div className="vv-info pt-2 pb-4 container">
-                                <p><b>Findings</b></p>
+                            <div className="vv-info pt-2 pb-lg-4 container">
+                                <p className="mb-0"><b>Findings</b></p>
                                 The kidSAFE Seal Program is an independent safety certification service and seal-of-approval program designed exclusively for children-friendly websites and technologies, including online game sites, educational services, virtual worlds, social networks, mobile apps, tablet devices, connected toys, and other similar online and interactive services.
                                     <ul>
                                         <li>Sample products: Happy Kids TV, Kidoodle</li>

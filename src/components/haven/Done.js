@@ -13,8 +13,8 @@ export default function Done() {
                         <div className="col-12 col-lg-5 d-flex align-items-end bpm-header">
                             <Link to={"/ux-ui-portfolio/case-studies/bpmusic"}><img className="img-fluid" alt="BPMusic Logo and Prototype on Phones" src={bpm} /></Link>
                         </div>
-                        <div className="col-12 col-lg-7 pl-4">
-                            <h1 className="pt-2 pb-2">BPMusic</h1>
+                        <div className="col-12 pt-2 pt-lg-0 col-lg-7 pl-4">
+                            <h1 className="pt-2 pb-3 pb-lg-2">BPMusic</h1>
                             <h3 className="pb-3">MOBILE APP THAT GAMIFIES YOUR MUSIC EXPERIENCE</h3>
                             <p className="pb-2">How might we build community at the intersection of music, fitness, and charity?</p>
                             <p className="hm-items">UX Research | Interaction | Visual &amp; UI Design | Prototyping | User Testing</p>

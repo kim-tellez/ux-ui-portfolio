@@ -4,7 +4,7 @@ import designlg from "../img/bpm-diamond-lg.png";
 
 export default function Process() {
     return (
-        <div className="container-fluid pt-5 pb-5">
+        <div className="container-fluid pt-5 pb-lg-5">
             <div className="container">
                 <h1 className="pb-4">Process</h1>
                 <h2>UX Double Diamond</h2>

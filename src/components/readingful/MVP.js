@@ -11,7 +11,7 @@ import 'swiper/css/bundle';
 
 export default function MVP() {
     return (
-        <div className="container-fluid pb-5">
+        <div className="container-fluid">
             <div className="container">
                 <h2>User Personas</h2>
                 <p>Swipe left and right to view slides. Click slides to enlarge.</p>

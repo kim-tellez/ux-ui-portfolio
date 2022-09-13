@@ -5,7 +5,7 @@ import synthlg from "../img/rm-synth-lg.png";
 
 export default function Research() {
     return (
-        <div className="container-fluid">
+        <div className="container-fluid pt-5">
             <div className="container">
                 <h1 className="pb-4">Discovery Research</h1>
             </div>

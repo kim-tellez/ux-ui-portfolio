@@ -6,7 +6,7 @@ import phone from "../img/rm-phone.gif";
 
 export default function Prototype() {
     return (
-        <div className="container-fluid pb-5">
+        <div className="container-fluid pt-5 pb-lg-5">
             <div className="container">
                 <h1>Prototyping &amp; Testing</h1><br/>
                 <h2>Moderated, Remote Usability Test</h2>
@@ -93,12 +93,12 @@ export default function Prototype() {
                 </div>
                 <h2>Final Prototype</h2>
                 <p>Below you'll find a GIF showing how the final product is meant to be used. Click on the link to access the <a href="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIQai1EpRWdQyX1pVGwtRcu%2FReadingful-Moments-P2%3Fnode-id%3D2%253A8037%26starting-point-node-id%3D2%253A10623" target="_blank" rel="noreferrer">Prototype.</a></p>
-                <div className="d-flex justify-content-center pb-5">
+                <div className="d-flex justify-content-center">
                     <a href="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIQai1EpRWdQyX1pVGwtRcu%2FReadingful-Moments-P2%3Fnode-id%3D2%253A8037%26starting-point-node-id%3D2%253A10623" target="_blank" rel="noreferrer" className="btn active button mt-3 pb-5 rm-phone">
                         <img className="img-fluid pb-5" alt="Click for an Interactive Prototype" src={phone} /><br/>
-                        <button>PROTOTYPE</button>
                     </a>
                 </div>
+                <div className="d-flex justify-content-center"><a href="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIQai1EpRWdQyX1pVGwtRcu%2FReadingful-Moments-P2%3Fnode-id%3D2%253A8037%26starting-point-node-id%3D2%253A10623" target="_blank" rel="noreferrer"><button>PROTOTYPE</button></a></div>
 
             </div>
         </div>   

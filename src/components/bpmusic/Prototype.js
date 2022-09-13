@@ -19,13 +19,13 @@ import 'swiper/css/bundle';
 
 export default function Prototype() {
     return (
-        <div className="container-fluid pt-5 pb-5">
+        <div className="container-fluid pt-5 pb-lg-5">
             <div className="container">
                 <h1 className="pb-4">Prototyping &amp; Testing</h1>
                 <h2>Moderated, Remote Usability Test</h2>
                 <p>At this stage I was ready to test the low-fidelity wireframes that I created during the ideation phase. Below, I highlight some of the major usability issues I found in this round of testing. Click on the links to access the <a href="https://docs.google.com/document/d/1JNknz3LQ64vKg1kxEv0yaZrf4EG-d3lDyHPhsZqZeSo/edit?usp=sharing" target="_blank" rel="noreferrer">Script</a> I used and the <a href="https://docs.google.com/document/d/13F91tCptjs8Ot0cjTbNRSvvy4YqL1JowCUj5XLkzYz8/edit?usp=sharing" target="_blank" rel="noreferrer">Full Report</a> of findings and recommendations.</p>
                 <p className="pb-3">Swipe left and right to view slides. Click slides to enlarge.</p>
-                <div className="bpm-signin">
+                <div>
                     <Swiper
                     // install Swiper modules
                     modules={[Navigation, Pagination, A11y]}
@@ -51,12 +51,13 @@ export default function Prototype() {
                 </div>
 
                 <h3 className="pt-5">ALL REVISED SCREENS IN HIGH FIDELITY</h3>
+                <p className="d-block d-md-none">Click image to enlarge.</p>
                 <a target="_blank" rel="noreferrer" href={hifi}><img className="img-fluid d-flex m-auto pt-2 pb-5" alt="BP Music high fidelity screens" src={hifi} /></a>
 
                 <h2>Final Moderated, Remote Usability Test</h2>
                 <p>This final round of testing was an opportunity to validate my design solutions to the usability issues that were uncovered in the previous round. While my designs solved some of the major issues, I uncovered new problems and further refined the final design based on user feedback. Click on the links to access the <a href="https://docs.google.com/document/d/1X51RNQOMd118lCWL-caodDvABsEu0ganufTNmIpzaiw/edit?usp=sharing" target="_blank" rel="noreferrer">Script</a> I used and the <a href="https://docs.google.com/document/d/1zhER4_v_91Rsvlh6W7xCzJ-qVc05bnxFHPVQ_cbHqy4/edit?usp=sharing" target="_blank" rel="noreferrer">Full Report.</a></p>
                 <p className="pb-3">Swipe left and right to view slides. Click slides to enlarge.</p>
-                <div className="bpm-signin">
+                <div>
                     <Swiper
                     // install Swiper modules
                     modules={[Navigation, Pagination, A11y]}

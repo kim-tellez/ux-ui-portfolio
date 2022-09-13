@@ -28,11 +28,6 @@
     width:3.5em;
 }
 
-.bpm-signin {
-    background: #F5F7F6;
-    border-radius: 20px;
-}
-
 .bpm-phone {
     width:300px;
     height:620px;
@@ -44,5 +39,5 @@
 }
 
 .bpm-recs > legend {
-    width:14.3em;
+    width:14em;
 }

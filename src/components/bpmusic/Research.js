@@ -8,7 +8,7 @@ import analysis from "../img/bpm-analysis.png";
 
 export default function Research() {
     return (
-        <div className="container-fluid pb-5">
+        <div className="container-fluid pt-5 pb-lg-5">
             <div className="container">
                 <h1 className="pb-4">Discovery Research</h1>
                 <h2>User Survey</h2>

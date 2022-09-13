@@ -16,10 +16,11 @@ import 'swiper/css/bundle';
 
 export default function Ideation() {
     return (
-        <div className="container-fluid pt-5 pb-5">
+        <div className="container-fluid pt-5 pb-lg-5">
             <div className="container">
                 <h1>Early Ideations</h1>
-                <p className="pt-4 pb-3">At this stage, I took my findings and began ideating. Using the user stories and personas, I created red route user flows for the coaching and reading experiences. Then, I used the Crazy 8s ideation technique to sketch possible solutions. With the support of my senior designer mentor, I brought my ideas together in low-fidelity wireframes that I used to test with users. </p>
+                <p className="pt-4 pb-md-3">At this stage, I took my findings and began ideating. Using the user stories and personas, I created red route user flows for the coaching and reading experiences. Then, I used the Crazy 8s ideation technique to sketch possible solutions. With the support of my senior designer mentor, I brought my ideas together in low-fidelity wireframes that I used to test with users. </p>
+                <p className="d-block d-md-none">Click image to enlarge.</p>
                 <a target="_blank" rel="noreferrer" href={flows}><img className="img-fluid d-flex m-auto pt-2 pb-5" alt="Red Route User Flows" src={flows} /></a>
 
                 <h2>Paper Sketches</h2>

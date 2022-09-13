@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Learning() {
     return (
-        <div className="container-fluid pt-5">
+        <div className="container-fluid pt-5 pb-lg-5">
             <div className="container">
                 <h1 className="pb-4">Learnings</h1>
                 <p>Throughout this project, I was able to practice the full scope of the design thinking process. My learnings were both granular in that each step had its challenges and learnings, and broad as I reflect on the overall process.</p>
