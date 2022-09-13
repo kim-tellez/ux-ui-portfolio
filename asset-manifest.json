@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ux-ui-portfolio/static/css/main.088a8952.css",
-    "main.js": "/ux-ui-portfolio/static/js/main.74718d13.js",
+    "main.css": "/ux-ui-portfolio/static/css/main.8446f6a3.css",
+    "main.js": "/ux-ui-portfolio/static/js/main.006f6fb9.js",
     "static/js/787.92376d47.chunk.js": "/ux-ui-portfolio/static/js/787.92376d47.chunk.js",
     "static/media/rm-phone.gif": "/ux-ui-portfolio/static/media/rm-phone.2c7afd9cf9615df20c51.gif",
     "static/media/bpm-phone.gif": "/ux-ui-portfolio/static/media/bpm-phone.b305d3c963710dd3a7cf.gif",
@@ -69,12 +69,12 @@
     "static/media/home-lf-sm.png": "/ux-ui-portfolio/static/media/home-lf-sm.4f7edeb61b44bb912f84.png",
     "static/media/home-sl-sm.png": "/ux-ui-portfolio/static/media/home-sl-sm.de337344289964f4c442.png",
     "index.html": "/ux-ui-portfolio/index.html",
-    "main.088a8952.css.map": "/ux-ui-portfolio/static/css/main.088a8952.css.map",
-    "main.74718d13.js.map": "/ux-ui-portfolio/static/js/main.74718d13.js.map",
+    "main.8446f6a3.css.map": "/ux-ui-portfolio/static/css/main.8446f6a3.css.map",
+    "main.006f6fb9.js.map": "/ux-ui-portfolio/static/js/main.006f6fb9.js.map",
     "787.92376d47.chunk.js.map": "/ux-ui-portfolio/static/js/787.92376d47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.088a8952.css",
-    "static/js/main.74718d13.js"
+    "static/css/main.8446f6a3.css",
+    "static/js/main.006f6fb9.js"
   ]
 }
