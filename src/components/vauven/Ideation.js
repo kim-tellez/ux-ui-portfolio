@@ -20,7 +20,7 @@ export default function Ideation() {
                                 <div className="vv-info-header text-center pt-3">
                                     <p><b>Potential Investor</b></p>
                                 </div>
-                                <div className="vv-info pt-2 container">
+                                <div className="vv-info pt-2 container pb-xl-4">
                                     <p><b>As a potential investor, I need to&hellip;</b></p>
                                     <ul>
                                         <li><p>Learn about the Vauven product &amp; values so that I can understand the full scope of the idea.</p></li>
@@ -71,7 +71,7 @@ export default function Ideation() {
                 <h2>Sitemap Brainstorming Session</h2>
                 <p>We used Miro to build an initial sitemap, and identified areas (such as the company values) that needed to be worked on. I supported the team by facilitating brainstorming sessions such as this throughout the project.</p>
                 <p className="d-block d-md-none">Click image to enlarge.</p>
-                <a target="_blank" rel="noreferrer" href={sitemap}><img className="img-fluid d-flex m-auto pt-2 pb-5" alt="Vauven sitemap" src={sitemap} /></a>
+                <a target="_blank" rel="noreferrer" href={sitemap}><img className="img-fluid d-flex m-auto pt-2" alt="Vauven sitemap" src={sitemap} /></a>
 
 
             </div>

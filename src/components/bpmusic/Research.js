@@ -14,9 +14,9 @@ export default function Research() {
                 <h2>User Survey</h2>
                 <p>Using Google Forms, I surveyed potential users to get better insight into their attitudes toward our product.</p><br/>
                 <div className="row">
-                    <div className="col-6 pl-5">
+                    <div className="col-12 col-lg-6 pl-lg-5">
                         <img className="img-fluid d-flex m-auto pt-4 pb-3" alt="User Profile" src={user} /><br/>
-                        <h3 className="pl-3">User Profile</h3>
+                        <h3 className="pl-lg-3">User Profile</h3>
                         <ul>
                             <li>18 - 25 years old</li>
                             <li>Very tech-savvy</li>
@@ -24,7 +24,7 @@ export default function Research() {
                             <li>Music is a very important part of their lives</li>
                         </ul>
                     </div>
-                    <div className="col-6">
+                    <div className="col-12 col-lg-6">
                         <span><b className="bpm-big">85%</b> are willing to take action to remove ads</span><br/>
                         <span><b className="bpm-big">55%</b> wish they could reach fitness goals and remove ads for free</span><br/>
                         <span><b className="bpm-big">55%</b> said yes to paying $4.99 to remove ads</span><br/>
